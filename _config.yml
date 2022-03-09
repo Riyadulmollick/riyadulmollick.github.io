@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Riyadul Islam Mollick
+description: Student at BSMR Maritime University
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /riyadulmollick.github.io #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: riyadul.mollick@outlook.com
 
 
 highlighter: rouge
